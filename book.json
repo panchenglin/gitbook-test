@@ -1,0 +1,7 @@
+{
+	"gitbook": ">=2.0.0",
+	"title": "My Awesome Book",
+	"description": "This is such a great book!",
+	"output":"_book",
+	"plugins": ["collapsible-menu"]
+}
